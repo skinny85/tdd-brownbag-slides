@@ -33,6 +33,13 @@
      /*counter(tips);*/
 }
 
+.reveal section img.borderless-image {
+  border: none;
+  box-shadow: none;
+}
+
+/* *** End of skinny custom styles *** */
+
 /**
  * White theme for reveal.js. This is the opposite of the 'black' theme.
  *
